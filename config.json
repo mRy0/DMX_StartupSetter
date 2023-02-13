@@ -1,0 +1,6 @@
+{
+  "ConfigFile": "data.json",
+  "SourceName": "Basic Dimmer",
+  "Destination": "192.168.178.72",
+  "Universe": 1
+}
